@@ -1,0 +1,22 @@
+{
+    "name": "kabir-token-sale",
+    "version": "1.0.0",
+    "description": "Kabir tokens sale for ICO",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "author": "Kabir",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    },
+    "dependencies": {
+        "@truffle/contract": "^4.5.8",
+        "truffle-contract": "^4.0.31",
+        "web3": "^1.7.3"
+    }
+}

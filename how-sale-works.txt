@@ -1,0 +1,5 @@
+# Provision tokens to token sael contract
+# Set a token price in wei
+# Assign an admin
+# Buy Tokens
+# end sale
